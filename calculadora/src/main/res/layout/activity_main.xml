@@ -33,7 +33,7 @@
         android:id="@+id/b9"/>
     <Button style="@style/ButtonStyle"
         android:text="+"
-        android:id="@+id/bMas"/>
+        android:id="@+id/btnSuma"/>
 </LinearLayout>
 
 <LinearLayout style="@style/LayoutStyle">
@@ -48,7 +48,7 @@
         android:id="@+id/b6"/>
     <Button style="@style/ButtonStyle"
         android:text="-"
-        android:id="@+id/bMenos"/>
+        android:id="@+id/btnResta"/>
 </LinearLayout>
 <LinearLayout style="@style/LayoutStyle">
     <Button style="@style/ButtonStyle"
@@ -62,27 +62,27 @@
         android:id="@+id/b3"/>
     <Button style="@style/ButtonStyle"
         android:text="*"
-        android:id="@+id/bPor"/>
+        android:id="@+id/btnMulti"/>
 </LinearLayout>
 
     <LinearLayout style="@style/LayoutStyle">
     <Button style="@style/ButtonStyle"
         android:text="."
-        android:id="@+id/bPunto"/>
+        android:id="@+id/btnPunto"/>
     <Button style="@style/ButtonStyle"
         android:text="0"
         android:id="@+id/b0"/>
     <Button style="@style/ButtonStyle"
         android:text="C"
-        android:id="@+id/bC"/>
+        android:id="@+id/btnLimpiar"/>
     <Button style="@style/ButtonStyle"
         android:text="/"
-        android:id="@+id/bDiv"/>
+        android:id="@+id/btnDiv"/>
 </LinearLayout>
 
 <LinearLayout style="@style/LayoutStyle">
     <Button style="@style/ButtonStyle"
-        android:id="@+id/bIgual"
+        android:id="@+id/btnIgual"
         android:text="="/>
 </LinearLayout>
 
