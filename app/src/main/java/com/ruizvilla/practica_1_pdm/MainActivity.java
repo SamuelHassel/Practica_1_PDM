@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                         // Si ambos esta vacio entonces saque mensaje para que digite valor
                         if (eDolares.getText().toString().equals("") && ePesos.getText().toString().equals("")) {
                             Toast.makeText(getApplicationContext(), "Digite un valor a convertir", Toast.LENGTH_SHORT).show();
-                            // Toast es el que despliega textos de gestion, LENGTH SHORT es cuanto demora mostrando
+                            // Toast es el que despliega textos de gestion, LENGTH SHORT es cuanto demora mostrandos
                         } else {
                             if (!ePesos.getText().toString().equals("") && !eDolares.getText().toString().equals("")) {
                                 Toast.makeText(getApplicationContext(), "Error solo debe digitar un VALOR", Toast.LENGTH_SHORT).show();
