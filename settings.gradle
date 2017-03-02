@@ -1,1 +1,1 @@
-include ':app', ':calculadora_resitencias', ':nota_curso'
+include ':app', ':calculadora_resitencias', ':nota_curso', ':calculadora'

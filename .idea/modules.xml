@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Practica_1_PDM.iml" filepath="$PROJECT_DIR$/Practica_1_PDM.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculadora_resitencias/calculadora_resitencias.iml" filepath="$PROJECT_DIR$/calculadora_resitencias/calculadora_resitencias.iml" />
       <module fileurl="file://$PROJECT_DIR$/nota_curso/nota_curso.iml" filepath="$PROJECT_DIR$/nota_curso/nota_curso.iml" />
     </modules>

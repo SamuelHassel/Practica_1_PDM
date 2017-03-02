@@ -7,6 +7,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+// CALCULADORA DE NOTAS
+
 public class MainActivity extends AppCompatActivity {
 
    // Construccion de variables

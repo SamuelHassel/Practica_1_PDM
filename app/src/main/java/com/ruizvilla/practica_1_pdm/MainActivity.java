@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import com.ruizvilla.practica_1_pdm.R;
 
-
+// CONVERSOR DE MONEDA
 public class MainActivity extends AppCompatActivity {
 
     // Declaracion o construccion de objetos
